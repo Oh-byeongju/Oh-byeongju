@@ -10,7 +10,8 @@
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
-#### Web Skill
+**WebSkill**
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -20,13 +21,15 @@
 ![JPA](https://img.shields.io/badge/JPA-59666C?logo=hibernate&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-#### Server & Environment 
+**Server & Environment**
+
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=linux&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-5391FE?logo=gnu-bash&logoColor=white)
 
-#### DevOps & Tools  
+**DevOps & Tools**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?logo=gitlab&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
