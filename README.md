@@ -1,6 +1,8 @@
 ## 👨‍💻 Oh-byeongju
 [![Mail](https://img.shields.io/badge/Mail-naver.com-03C75A?logo=naver&logoColor=white)](mailto:dhqudwn0@naver.com)
-[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-Visit-0078D4?logo=notion&logoColor=white)](https://obj98.notion.site/223714131a2c8032b9fbef0f8fe2d8e0)
+<a href="https://obj98.notion.site/223714131a2c8032b9fbef0f8fe2d8e0" target="_blank">
+  <img src="https://img.shields.io/badge/Tech%20Blog-Visit-0078D4?logo=notion&logoColor=white" />
+</a>
 [![Algorithm](https://img.shields.io/badge/Algorithm-Study-8A2BE2?logo=leetcode&logoColor=white)](https://www.acmicpc.net/user/neda2)
 [![Work Log](https://img.shields.io/badge/Work%20Log-Archive-FF8C00?logo=notion&logoColor=white)](https://obj98.notion.site/223714131a2c8032b9fbef0f8fe2d8e0)
 
