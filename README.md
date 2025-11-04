@@ -10,13 +10,11 @@
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
-#### Frontend
+#### Web Skill
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5?logo=react&logoColor=white)
-
-#### Backend
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?logo=hibernate&logoColor=white)
