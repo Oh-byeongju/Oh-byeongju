@@ -2,7 +2,7 @@
 [![Mail](https://img.shields.io/badge/Mail-naver.com-03C75A?logo=naver&logoColor=white)](mailto:dhqudwn0@naver.com)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-Visit-0078D4?logo=notion&logoColor=white)](https://obj98.notion.site/223714131a2c8032b9fbef0f8fe2d8e0)
 [![Algorithm](https://img.shields.io/badge/Algorithm-Study-8A2BE2?logo=leetcode&logoColor=white)](https://www.acmicpc.net/user/neda2)
-[![Work Log](https://img.shields.io/badge/Work%20Log-Archive-FF8C00?logo=notion&logoColor=white)](https://obj98.notion.site/223714131a2c8032b9fbef0f8fe2d8e0)
+[![Work Log](https://img.shields.io/badge/Work%20Log-Archive-FF8C00?logo=notion&logoColor=white)](https://obj98.notion.site/0f2214a69dde4752834810d92e2c3b3b)
 
 - 풀스택 개발을 하고 있으며, 백엔드와 서버 관리 분야에 관심이 많습니다.
 - 새로운 기술을 배우는 걸 좋아하고, 주어진 일은 꼼꼼하게 파고드는 스타일입니다.
